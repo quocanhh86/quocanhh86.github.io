@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="NQA — Nguyen Quoc Anh">
+  <rect width="64" height="64" rx="15" fill="#090B10" />
+  <rect
+    x="2.5"
+    y="2.5"
+    width="59"
+    height="59"
+    rx="12.5"
+    stroke="#EC8F00"
+    stroke-opacity="0.55"
+    stroke-width="2"
+  />
+  <rect x="18" y="8" width="28" height="2.2" rx="1.1" fill="#EC8F00" fill-opacity="0.85" />
+  <path
+    d="M6.5 44V22h3.5l6 13.4V22h3.5v22h-3.4L10 30.4V44H6.5Z"
+    fill="#F59E0B"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M29.5 22h3a6 6 0 0 1 6 6v10a6 6 0 0 1-6 6h-3a6 6 0 0 1-6-6V28a6 6 0 0 1 6-6Zm0 3.6a2.4 2.4 0 0 0-2.4 2.4v10a2.4 2.4 0 0 0 2.4 2.4h3a2.4 2.4 0 0 0 2.4-2.4V28a2.4 2.4 0 0 0-2.4-2.4h-3Z"
+    fill="#F59E0B"
+  />
+  <path
+    d="M32.6 36.8 35.3 34.5l4.4 8.2-2.7 2.1-4.4-8Z"
+    fill="#EC8F00"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M42 44 47.8 22h3.9L57.5 44h-3.8l-1.2-4.8h-5.5L45.8 44H42Zm5.9-8h3.7l-1.85-7.6L47.9 36Z"
+    fill="#F59E0B"
+  />
+  <rect x="12" y="51.5" width="40" height="2" rx="1" fill="#353A3D" />
+  <circle cx="32" cy="52.5" r="2" fill="#EC8F00" />
+</svg>
